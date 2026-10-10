@@ -1,0 +1,6 @@
+{
+  "name": "بطاقات هلاهيل - دعوة باب الفرح",
+  "description": "تصميم بطاقة دعوة إلكترونية تفاعلية بأسلوب باب الفرح من هلاهيل مع إمكانية التخصيص ومشاركة رابط خاص للأقارب عبر الواتساب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
